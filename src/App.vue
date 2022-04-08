@@ -52,7 +52,7 @@ export default {
 * {
     margin: 0;
     padding: 0;
-    max-width: 1600px;
+    max-width: 1535px;
 }
 
 .app {
@@ -73,8 +73,9 @@ export default {
     position: absolute;
     left: 103%;
     top: 3px;
-    width: 1316px;
-    height: 600px
+    width: 100%;
+    /* max-height: 1600px; */
+    /* background-color: pink; */
 }
 
 .aside .bar {
